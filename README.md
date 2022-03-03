@@ -5,7 +5,7 @@
 ##`python mange.py runserver`
 
 #Runs the app in the development mode.
-open[http:://localhost:8000](http://localhost:8000)to view it in our browser.
+open [http://localhost:8000](http://localhost:8000)to view it in our browser.
 
 
 ## Getting Started with Create React App
